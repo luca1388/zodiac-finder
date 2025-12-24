@@ -4,14 +4,13 @@ Main entry point for the Zodiac Finder application.
 """
 
 import tkinter as tk
-from tkinter import ttk
 from src.ui.main_window import MainWindow
 
 
 def main():
     """Initialize and run the application."""
     window = tk.Tk()
-    app = MainWindow(window)
+    MainWindow(window)
     window.mainloop()
 
 
