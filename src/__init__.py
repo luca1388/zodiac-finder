@@ -1,0 +1,1 @@
+"""Zodiac Finder application package."""

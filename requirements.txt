@@ -1,0 +1,2 @@
+# Zodiac Finder Requirements
+# tkinter is included with Python by default, no need to install separatelyPillow>=9.0.0
